@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koalaxl
+- 👋 Hi, I’m Zaidan Faaris Abidi @Koalaxl
 - 👀 I’m interested in Web Deveploment
 - 🌱 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me on instagram ayydan__
