@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Zaidan Faaris Abidi
+# Hello, I'm Zaidan Faaris Abidi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Developer;Backend+Enthusiast;Always+Learning+New+Things" />
 
@@ -39,17 +39,17 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Koalaxl\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=USERNAMEKAMU\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Koalaxl\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koalaxl\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/USERNAMEKAMU/USERNAMEKAMU/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Koalaxl/USERNAMEKAMU/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
