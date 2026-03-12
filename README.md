@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:00FFD1,100:020810&height=200&section=header&text=Zaidan%20Faaris%20Abidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:00FFD1,100:020810&height=200&section=header&text=Zaidan%20Faaris%20Abidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=🚀+Software+Engineering+Student;⚙️+Backend+Systems+Enthusiast;🌐+Web+%26+Desktop+App+Builder;🔧+Building+Real-World+Solutions;📚+Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,7 +20,7 @@
 
 ```yaml
 name       : Zaidan Faaris Abidi
-location   : 🇮🇩 Indonesia
+location   : Indonesia
 role       : Software Engineering Student
 focus      : Web Development & Backend Systems
 building   : Web Apps · Desktop Apps · Real-world Systems
