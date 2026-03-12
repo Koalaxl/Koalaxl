@@ -12,8 +12,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=🚀+Software+Engineering+Student;⚙️+Backend+Systems+Enthusiast;🌐+Web+%26+Desktop+App+Builder;📚+Lifelong+Learner+%7C+Indonesia" alt="Typing SVG" />
 
 <br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Koalaxl?style=flat-square&color=00FFD1&labelColor=0d1117&logo=github)](https://github.com/Koalaxl)
 [![Profile Views](https://komarev.com/ghpvc/?username=Koalaxl&style=flat-square&color=00FFD1&label=PROFILE+VIEWS)](https://github.com/Koalaxl)
 
 </div>
