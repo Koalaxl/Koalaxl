@@ -88,18 +88,6 @@ fun_fact   : I debug with determination and coffee ☕
 
 ---
 
-## `> uptime --learning`
-
-```
-PHP & MySQL     ████████████░░░░  80%   ⚡ Strong
-JavaScript      ███████████░░░░░  72%   📈 Growing
-C# & .NET       ██████████░░░░░░  65%   🔧 Building
-HTML5 / CSS3    █████████████░░░  85%   ✅ Confident
-Dart / Flutter  ██████░░░░░░░░░░  40%   🌱 Learning
-```
-
----
-
 ## `> contact --social`
 
 <div align="center">
