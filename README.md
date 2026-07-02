@@ -72,15 +72,6 @@ fun_fact   : I debug with determination and coffee ☕
 
 ---
 
-## `> github --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Koalaxl&show_icons=true&hide_border=true&bg_color=020810&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&ring_color=00FFD1&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koalaxl&layout=compact&hide_border=true&bg_color=020810&title_color=00FFD1&text_color=c9d1d9&border_radius=12" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Koalaxl&hide_border=true&background=020810&stroke=00FFD1&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=c9d1d9&dates=4a6a8a&border_radius=12" />
 
 </div>
